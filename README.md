@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+摸鱼，躺平，开摆！
 <!--
 **weizhenhuan/weizhenhuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
